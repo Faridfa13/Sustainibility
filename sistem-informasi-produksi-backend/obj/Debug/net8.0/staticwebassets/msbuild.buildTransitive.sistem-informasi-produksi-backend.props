@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\sistem-informasi-produksi-backend.props" />
-</Project>
